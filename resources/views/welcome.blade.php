@@ -1,5 +1,3 @@
-<!-- resources/views/child.blade.php -->
- 
 @extends('layouts.public')
  
 @section('title', 'Page Title')
